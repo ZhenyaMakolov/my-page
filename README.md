@@ -10,4 +10,4 @@
 
 Люблю программировать на Python, учусь!
 
-![Мое фото](https://vk.com/makolov86?z=photo226676514_457239767%2Falbum226676514_0%2Frev)
+![IMG_20221109_144452](https://user-images.githubusercontent.com/122947608/214641740-f3608afe-c196-4d92-bac0-b2c4e6153160.jpg)
